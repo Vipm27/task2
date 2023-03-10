@@ -1,0 +1,3 @@
+<?php //App%255CEntity%255CRecommendation%2523getHumidityRange
+
+return [PHP_INT_MAX, []];
